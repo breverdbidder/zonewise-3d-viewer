@@ -13,6 +13,7 @@ const nextConfig: NextConfig = {
     '@pascal-app/core',
     '@pascal-app/editor',
     '@pascal-app/mcp',
+    '@zonewise/pascal-bridge',
   ],
   turbopack: {
     resolveAlias: {
