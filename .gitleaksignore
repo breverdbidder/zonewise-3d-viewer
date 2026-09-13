@@ -1,0 +1,6 @@
+# Gitleaks baseline 2026-09-13 - pre-existing findings triaged as dead/placeholder by trufflehog verified sweep.
+# Remove an entry only when the underlying file/history is cleaned. New secrets still fail the gate.
+2e8b6630011b54c7a68ab3f61d77bedebc19ff44:SETUP.md:jwt:46
+2e8b6630011b54c7a68ab3f61d77bedebc19ff44:SETUP.md:jwt:47
+2e8b6630011b54c7a68ab3f61d77bedebc19ff44:SETUP.md:supabase-service-role-jwt:46
+2e8b6630011b54c7a68ab3f61d77bedebc19ff44:SETUP.md:supabase-service-role-jwt:47
